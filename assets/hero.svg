@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<title>plan-apply</title>
+<desc>Outline word plan, an amber padlock as the dash, solid word apply; six tags on a keyring: devops, security, terraform, workflows, encryption, ai.</desc>
+<rect width="1200" height="320" fill="#000000"/>
+<text x="60" y="200" fill="none" stroke="#f0f0f0" stroke-width="2" font-size="140" font-weight="800" letter-spacing="-6">plan</text>
+<g transform="translate(470,80)"><path d="M22 60V40a38 38 0 0 1 76 0v20" fill="none" stroke="#f0b429" stroke-width="9"/><rect y="60" width="120" height="80" rx="10" fill="#f0b429"/><circle cx="60" cy="92" r="9" fill="#000000"/><rect x="56" y="98" width="8" height="22" fill="#000000"/></g>
+<text x="630" y="200" fill="#f0f0f0" font-size="140" font-weight="800" letter-spacing="-6">apply</text>
+<path d="M90 240h1020" stroke="#f0b429" stroke-width="1.5"/>
+<g font-size="13" fill="#000000" text-anchor="middle">
+<g transform="translate(150,240)"><path d="M0 0v10" stroke="#f0b429"/><rect x="-38" y="10" width="76" height="24" rx="3" fill="#f0b429"/><text y="27">devops</text></g>
+<g transform="translate(320,240)"><path d="M0 0v10" stroke="#f0b429"/><rect x="-42" y="10" width="84" height="24" rx="3" fill="#f0b429"/><text y="27">security</text></g>
+<g transform="translate(495,240)"><path d="M0 0v10" stroke="#f0b429"/><rect x="-44" y="10" width="88" height="24" rx="3" fill="#f0b429"/><text y="27">terraform</text></g>
+<g transform="translate(675,240)"><path d="M0 0v10" stroke="#f0b429"/><rect x="-46" y="10" width="92" height="24" rx="3" fill="#f0b429"/><text y="27">workflows</text></g>
+<g transform="translate(860,240)"><path d="M0 0v10" stroke="#f0b429"/><rect x="-48" y="10" width="96" height="24" rx="3" fill="#f0b429"/><text y="27">encryption</text></g>
+<g transform="translate(1030,240)"><path d="M0 0v10" stroke="#f0b429"/><rect x="-26" y="10" width="52" height="24" rx="3" fill="#f0b429"/><text y="27">ai</text></g>
+</g>
+<text x="1140" y="300" fill="#8a8a8a" font-size="13" text-anchor="end">Proprietor: Joe Esposito</text>
+</svg>
